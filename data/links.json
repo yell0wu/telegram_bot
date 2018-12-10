@@ -1,0 +1,47 @@
+{
+  "coder": {
+    "id": "coder",
+    "label": "What is Coder?",
+    "response": "Coder is a platform for accelerating the development and growth of innovative new ventures. Our mission is to enable anyone, anywhere, to be able to build anything. We’ve designed a more efficient model providing superior economics through automation and intelligence, and so we’ve built a software platform running on the Ethereum blockchain to enable transparency, speed, and risk mitigation to bring to market a truly decentralized and global accelerator dedicated to new venture development."
+  },
+  "website": {
+    "id": "website",
+    "label": "Coder Website",
+    "response": "https://www.codercoin.io/"
+  },
+  "whitepaper": {
+    "id": "whitepaper",
+    "label": "Coder Whitepaper",
+    "response": "https://www.codercoin.io/whitepaper/"
+  },
+  "twitter": {
+    "id": "twitter",
+    "label": "Coder Twitter",
+    "response": "https://twitter.com/coderinc/"
+  },
+  "telegram": {
+    "id": "telegram",
+    "label": "Coder Telegram",
+    "response": "https://t.me/codercoin/"
+  },
+  "slack": {
+    "id": "slack",
+    "label": "Coder Slack",
+    "response": "https://slack.codercoin.io/"
+  },
+  "reddit": {
+    "id": "reddit",
+    "label": "Coder Subreddit",
+    "response": "https://www.reddit.com/r/codercoin/"
+  },
+  "medium": {
+    "id": "medium",
+    "label": "Coder Medium",
+    "response": "https://www.medium.com/codercoin"
+  },
+  "video": {
+    "id": "video",
+    "label": "Coder Video",
+    "response": "https://bit.ly/2HlMS74"
+  }
+}

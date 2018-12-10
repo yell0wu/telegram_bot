@@ -1,0 +1,165 @@
+{
+  "section_1":{
+    "id": "section_1",
+    "label": "User Roles >",
+    "content": {
+      "procareer": {
+        "id": "procareer",
+        "label": "How can I become a CoderPro?",
+        "response": "You can sign up as a CoderPro <a href='https://app.builtbycoder.com/'>HERE</a>"
+      },
+      "leadcareer": {
+        "id": "leadcareer",
+        "label": "How can I become a CoderLead?",
+        "response": "You can sign up to be a CoderLead <a href='https://app.builtbycoder.com/'>HERE</a>"
+      },
+      "startproject": {
+        "id": "startproject",
+        "label": "How can I become a CoderClient?",
+        "response": "You can start your project via the platform: <a href='https://app.builtbycoder.com/'>FEATURE PICKER</a>"
+      },
+      "coderpro": {
+        "id": "coderpro",
+        "label": "What is a CoderPro?",
+        "response": "A CoderPro is anyone we classify as a digital services professional, whether it be a user experience designer, user interface designer, strategist, marketer, software developer, iOS/Android developer, etc. that would participate in the completing of project deliverables grouped into sprints on the Coder Platform."
+      },
+      "coderlead": {
+        "id": "coderlead",
+        "label": "What is a CoderLead?",
+        "response": "A CoderLead is someone vetted through the Coder process and are qualified at Level 5 or above, usually an experienced project manager, product manager, or technical lead, that would be responsible for creating the product roadmap, building the sprints, and assigning tasks while ensuring client satisfaction through the tools available via the Coder Platform."
+      },
+      "coderclient": {
+        "id": "coderclient",
+        "label": "What is a CoderClient?",
+        "response": "A CoderClient is any sole entrepreneur, startup founder, small business owner, or even an enterprise team lead that needs a key technical partner for any digital or venture development services. The Coder Platform has been designed and engineered to serve as the command center for all technical and non-technical project delivery — with detailed dashboards to track KPIs, ROI, and provide recommendations to grow a CoderClient’s business."
+      }
+    }
+  },
+  "section_2":{
+    "id": "section_2",
+    "label": "Token Questions >",
+    "content": {
+      "cdr": {
+        "id": "cdr",
+        "label": "What is CoderCoin?",
+        "response": "CoderCoin (CDR) is an ERC20 token built on the Ethereum blockchain. CDR is designed as utility coin, linked to a software licensing model, to use on the Coder Platform to secure a range of technology services and solutions engineered to accelerate new venture development."
+      },
+      "blockchain": {
+        "id": "blockchain",
+        "label": "How does the Coder Platform use blockchain?",
+        "response": "The Coder Platform utilizes an integrated smart contract protocol that locks the scope and cost of a sprint into an escrow on the blockchain. Once the scope is qualified as complete, the smart contract automatically triggers payments to the various CoderPros for completing their respective tasks as part of the finished sprint. We are effectively tracking deliverables and time spent while securing payment processing using the blockchain."
+      },
+      "whenisthesale": {
+        "id": "whenisthesale",
+        "label": "When is the token sale?",
+        "response": "The tokensale will commence in the summer of 2018. If interested, please sign up for the newsletter to stay informed of the project timeline."
+      },
+      "whytoken": {
+        "id": "whytoken",
+        "label": "Why does there need to be a token?",
+        "response": "CoderCoins allow services to be rendered for all participating parties in the venture development ecosystem - CoderLeads, CoderPros, and CoderClients. These utility tokens will incentivize product managers, developers, marketers, designers, and other digital service professionals to execute on deliverables and hit project milestones in the most efficient manner possible, enabling the Coder Platform to serve in the entrepreneur’s best interest to manage their digital and technology needs. The token is key to keeping all players on the Coder ecosystem active and honest, and allowing projects to be measurable. The CDR token is essential to building a greater ecosystem of platform participants. By providing discounts for services paid for, premiums for those rendered, and CDR bonuses for platform performance, users are driven to use both the platform and token."
+      },
+      "minecdr": {
+        "id": "minecdr",
+        "label": "Can I mine CDR?",
+        "response": "No, but you can earn CDR by contributing to the shared resource library or collaborating on projects on the Coder Platform."
+      },
+      "cdrlimit": {
+        "id": "cdrlimit",
+        "label": "Is there a limit to how much CDR I can purchase in the token sale?",
+        "response": "There is no limit to how much CDR you can purchase. We would recommend that you purchase as much as you think you’ll need to budget for your project. If you need to quote out a project, start using the <a href='https://app.builtbycoder.com/'>FEATURE PICKER</a> and a CoderLead will assist you in getting started."
+      },
+      "exchanges": {
+        "id": "exchanges",
+        "label": "What exchanges will the token be traded on?",
+        "response": "Due to the legal ramifications, we cannot speculate on secondary market participation of the CDR token. CDR will not be traded on exchanges in order to limit speculation nor are there any plans in the near future to list on an exchange."
+      },
+      "saleamount": {
+        "id": "saleamount",
+        "label": "How many of the tokens will be sold?",
+        "response": "50% of the token supply will be sold, while the other 50% will be retained for the team as platform incentives. The total number of tokens sold will be determined by the demand for the token."
+      },
+      "cdrcap": {
+        "id": "cdrcap",
+        "label": "What is the maximum number of CDR tokens?",
+        "response": "If the 50,000 ETH hard cap is met, the total token supply will be 118,450,000 CDR based on the current bonus structure."
+      },
+      "mewcdr": {
+        "id": "newcdr",
+        "label": "Will there ever be new CDR tokens generated?",
+        "response": "No, there is only one token generation event. The supply will be limited to what is sold during the tokensale."
+      },
+      "cdrusage": {
+        "id": "cdrusage",
+        "label": "Can I use the CDR token anywhere else?",
+        "response": "The CDR token is designed for exclusive use on the Coder Platform."
+      },
+      "cdrlockup": {
+        "id": "cdrlockup",
+        "label": "Is there a lockup period for the team or advisors?",
+        "response": "Yes. The tokens for the advisors are locked for 6 months and the tokens for the team are locked for 12 months."
+      },
+      "cdrdatae": {
+        "id": "cdrdate",
+        "label": "When can I use my CDR tokens on the Coder Platform?",
+        "response": "The Coder Platform is already designed to accept the CDR token on the day of the launch. At the end ot the token generation event, token purchasers will be able to begin using their CDR tokens on the Coder Platform at that time. We recommend setting up your project in the Coder platform and scheduling your initial project kick off meeting prior to the completion of the token sale. Ready to start your project? use the <a href='https://app.builtbycoder.com/'>FEATURE PICKER</a> to begin."
+      },
+      "cdrfunding": {
+        "id": "cdrfunding",
+        "label": "Why do you need a venture fund, why can't you create a pool of CDR to fund ventures?",
+        "response": "We don’t plan to lead investment rounds with the venture fund so we would need to be able to invest alongside other firms on the terms of the round. The preference will be to support ventures planning future token sales and while some of those may be issuing tokens, some will issue a SAFT, and other potential portfolio companies will be pursuing a traditional venture financing. The fund will support companies engaging with the Coder Community to promote the Coder Platform and the CDR Token economy. Fund performance will be tracked through the Coder Platform and held in ETH."
+      }
+    }
+  },
+  "section_3":{
+    "id": "section_3",
+    "label": "Other >",
+    "content": {
+      "about": {
+        "id": "about",
+        "label": "What is Coder?",
+        "response": "Coder is a platform for accelerating the development and growth of innovative new ventures. Our mission is to enable anyone, anywhere, to be able to build anything. We’ve designed a more efficient model providing superior economics through automation and intelligence, and so we’ve built a software platform running on the Ethereum blockchain to enable transparency, speed, and risk mitigation to bring to market a truly decentralized and global accelerator dedicated to new venture development."
+      },
+      "venturefund": {
+        "id": "venturefund",
+        "label": "Who is going to run the Coder venture fund?",
+        "response": "The principals of Coder will serve as the general partners with Coder Inc. as the sole limited partner. A management entity will be created and staffed with investment + operations professionals as needed. No one will be leaving Coder to run the fund as the team would be managing the fund for Coder as a way to enhance the Coder community and platform."
+      },
+      "nonprofits": {
+        "id": "nonprofits",
+        "label": "What is the need for a foundation, why can't you create a pool of CDR to support non-profits?",
+        "response": "The foundation will support non-profits by contributing CDR for them to use to build new technologies using the Coder Platform to engage with CoderPros."
+      },
+      "board": {
+        "id": "board",
+        "label": "Who is going to run the Coder foundation?",
+        "response": "In the event that the threshold is met and the foundation is created, the Coder principals will serve on the board of the foundation. A board of directors will be appointed and operational staff hired as needed. Like the fund structure, no one is leaving Coder. The Coder principals will guide the foundation in a manner that benefits the whole Coder community and those engaged in the ecosystem."
+      },
+      "pricing": {
+        "id": "pricing",
+        "label": "Who determines the pricing and rates for CoderPros? How do you qualify talent?",
+        "response": "Businesses and individuals signing up as CoderPros will be asking to verify their current billable rates. These rates will be mapped to the corresponding level in their CoderPro Profile. The Coder Platform ensures that CoderPros are only compensated for work that passes a quality assurance review by the CoderLead and is accepted by the CoderClient. If the CoderPro is unable to deliver the expected caliber of work on time and on budget in for successive sprints their level will be adjusted. Misrepresentation of skills or rates by a CoderPro can result in ban from the platform."
+      },
+      "company": {
+        "id": "company",
+        "label": "Can my company use the Coder Platform?",
+        "response": "The platform is designed to be decentralized. If your company is interested in using the Coder Platform to streamline your product development process for your client engagements, or better manage your third party service provider network please contact us at team@builtbycoder.com."
+      },
+      "talent": {
+        "id": "talent",
+        "label": "Who supplies the talent?",
+        "response": "Coder has partnerships with vetted service providers for the solutions offered through the Coder platform. Following the token sale, as the community grows, individuals and businesses will be able to be able to register as CoderPros and engaging with CoderLeads and CoderClients on the platform."
+      },
+      "freelancer": {
+        "id": "freelancer",
+        "label": "Can I use the Coder Platform as a freelancer or as an individual contributor?",
+        "response": "Of course! Happy to have you in the community! To register as a CoderPro or CoderLead you will be required to create a profile here."
+      },
+      "ip": {
+        "id": "ip",
+        "label": "Who owns the IP?",
+        "response": "The CoderClient owns any new IP built as work for hire for their project but this would not include any of the IP for the code blocks from the shared resources library, which would be considered Developer Tools for the project."
+      }
+    }
+  }
+}

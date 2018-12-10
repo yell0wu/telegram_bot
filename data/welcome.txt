@@ -1,0 +1,1 @@
+Hello {name}, welcome to the Coder Telegram group! Try typing /help for more information!
